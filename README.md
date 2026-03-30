@@ -1,21 +1,96 @@
 <h1 align="center">Hi 👋, I'm Sukhmeet Singh Dhaliwal</h1>
-<h3 align="center">A passionate Android mobile app developer from India</h3>
+<h3 align="center">🚀 Passionate Android Developer from India</h3>
 
-<!-- - 🔭 I’m currently working on **Weather Android app** -->
-
-- 🌱 I’m currently learning **Native android app development**
-
-- 💬 Ask me about **Java,Kotlin,Android,Problem Solving**
-
-- 📫 How to reach me **officialsukhmeet9@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dhaliwal918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhaliwal918" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sukhmmeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukhmmeet" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhaliwal918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhaliwal918" height="30" width="40" /></a>
+<p align="center">
+  💡 Building real-world Android apps <br>
+  📱 Focused on clean UI & scalable architecture <br>
+  🧠 Practicing DSA & problem solving <br>
+  🎯 Goal: Become a top-tier Mobile App Developer
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p> -->
+---
+
+<h3 align="left">🚀 Projects:</h3>
+
+<ul>
+  <li>
+    <b>🔐 Password Manager App</b><br>
+    Securely stores user credentials using Firebase Authentication (Currently in development)
+  </li>
+
+  <li>
+    <b>📰 Offline News App</b><br>
+    Displays latest news articles with offline support using local database & API integration
+  </li>
+
+  <li>
+    <b>💸 Expense Tracker App</b><br>
+    Tracks income and expenses with category-wise reports and analytics
+  </li>
+
+  <li>
+    <b>🌦️ Weather App</b><br>
+    Fetches real-time weather data using external APIs
+  </li>
+</ul>
+
+---
+
+<h3 align="left">🎯 Currently Working On:</h3>
+
+<ul>
+  <li>🔐 Password Manager App (Security + Firebase)</li>
+  <li>📰 Offline News App (API + Room Database)</li>
+  <li>📚 Improving Data Structures & Algorithms</li>
+  <li>📱 Advanced Android Development (Architecture, Clean Code)</li>
+</ul>
+
+---
+
+<h3 align="left">🧠 Problem Solving:</h3>
+
+<p>
+🔥 Regularly solving DSA problems <br>
+💻 Active on LeetCode
+</p>
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dhaliwal918" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/sukhmmeet" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/dhaliwal918" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="left">⚒️ Tech Stack:</h3>
+
+<p>
+<b>Languages:</b> Java, Kotlin, C++, C <br>
+<b>Mobile Development:</b> Android (Jetpack Compose, XML) <br>
+<b>Backend & Database:</b> Firebase, MySQL, Room DB <br>
+<b>Tools:</b> Git, Postman, Linux
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sukhmmeet&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukhmmeet&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sukhmmeet&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
