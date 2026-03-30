@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sukhmeet Singh Dhaliwal</h1>
 <h3 align="center">A passionate Android mobile app developer from India</h3>
 
-- 🔭 I’m currently working on **Weather Android app**
+- 🔭 I’m currently working on **Weather Android app** 
 
-- 🌱 I’m currently learning **SpringBoot,Jetpack Compose**
+- 🌱 I’m currently learning **Native android app development**
 
 - 💬 Ask me about **Java,Kotlin,Android,Problem Solving**
 
 - 📫 How to reach me **officialsukhmeet9@gmail.com**
-
-- ⚡ Fun fact **I think I am emotional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
