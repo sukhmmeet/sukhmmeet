@@ -39,8 +39,6 @@
 <h3 align="left">🎯 Currently Working On:</h3>
 
 <ul>
-  <li>🔐 Password Manager App (Security + Firebase)</li>
-  <li>📰 Offline News App (API + Room Database)</li>
   <li>📚 Improving Data Structures & Algorithms</li>
   <li>📱 Advanced Android Development (Architecture, Clean Code)</li>
 </ul>
