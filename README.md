@@ -5,7 +5,7 @@
   💡 Building real-world Android apps <br>
   📱 Focused on clean UI & scalable architecture <br>
   🧠 Practicing DSA & problem solving <br>
-  🎯 Goal: Become a top-tier Mobile App Developer
+  🛠 Currently building secure and scalable Android applications
 </p>
 
 ---
@@ -15,22 +15,22 @@
 <ul>
   <li>
     <b>🔐 Password Manager App</b><br>
-    Securely stores user credentials using Firebase Authentication (Currently in development)
+    Client-side encrypted password manager using AES-256 (GCM) and PBKDF2. Implements secure vault storage, master password authentication, and Firebase backend.
   </li>
 
   <li>
     <b>📰 Offline News App</b><br>
-    Displays latest news articles with offline support using local database & API integration
+    Android app with API integration and Room DB caching for offline access. Focused on performance and data persistence.
   </li>
 
   <li>
     <b>💸 Expense Tracker App</b><br>
-    Tracks income and expenses with category-wise reports and analytics
+    Tracks income and expenses with categorized insights and local database storage.
   </li>
 
   <li>
     <b>🌦️ Weather App</b><br>
-    Fetches real-time weather data using external APIs
+    Fetches and displays real-time weather data using REST APIs with clean UI.
   </li>
 </ul>
 
