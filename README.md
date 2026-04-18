@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Passionate Android Developer from India</h3>
 
 <p align="center">
-  💡 Building real-world Android apps <br>
-  📱 Focused on clean UI & scalable architecture <br>
-  🧠 Practicing DSA & problem solving <br>
-  🛠 Currently building secure and scalable Android applications
+  💡 Android Developer building full-stack mobile systems <br>
+  📱 Clean UI, performance & scalable architecture <br>
+  ⚙️ Spring Boot for backend APIs <br>
+  🔗 End-to-end app + backend integration
 </p>
 
 ---
@@ -39,17 +39,19 @@
 <h3 align="left">🎯 Currently Working On:</h3>
 
 <ul>
-  <li>📚 Improving Data Structures & Algorithms</li>
-  <li>📱 Advanced Android Development (Architecture, Clean Code)</li>
+  <li>⚙️ Building scalable backend systems using Spring Boot</li>
+  <li>🔗 Developing and consuming REST APIs in Android apps</li>
+  <li>📱 Designing maintainable Android apps with clean architecture</li>
 </ul>
 
 ---
 
-<h3 align="left">🧠 Problem Solving:</h3>
+<h3 align="left">🧠 Backend Learning:</h3>
 
 <p>
-🔥 Regularly solving DSA problems <br>
-💻 Active on LeetCode
+⚙️ Learning Spring Boot & backend development <br>
+🔗 Building APIs and understanding system design <br>
+🛠 Working with databases, authentication & scalable architecture
 </p>
 
 ---
