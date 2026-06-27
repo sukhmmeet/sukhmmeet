@@ -159,12 +159,9 @@ Zero-knowledge password manager. Your master password never leaves your device â
 ## ğŸ“Š GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sukhmmeet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhmmeet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9" />
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhmmeet&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=555" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sukhmmeet&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhmmeet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9" />
+  <img width="80%" src="https://streak-stats.demolab.com/?user=sukhmmeet&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=555" />
 </div>
 
 ---
